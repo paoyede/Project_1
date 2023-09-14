@@ -1,12 +1,7 @@
-STUDIES ON ATOMIC AND MOLECULAR PROPERTIES USING LOCALLY
-
-SCALED AND PERDEW-ZUNGER SELF-INTERACTION CORRECTED DENSITY
-
-FUNCTIONAL APPROXIMATIONS
-
 git clone
 git add
 git commit -m "fixes updates"
 git push origin main
-
 Newly added
+
+Something else...this is very new
